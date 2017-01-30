@@ -7,5 +7,7 @@ This project shows what to do when HTML-based web scraping methods fail. Specifi
 Documentation for Selenium can be found here: http://selenium-python.readthedocs.io/
 
 You will also need to install a browser-specific driver.
+
 Chrome: https://sites.google.com/a/chromium.org/chromedriver/
+
 Firefox: https://developer.mozilla.org/en-US/docs/Mozilla/QA/Marionette/WebDriver
