@@ -1,6 +1,6 @@
 # Web-Scraping with selenium
 
-HTML websites can be scraped using standard Python packages such as Requests and BeautifulSoup. However, these methods often fail on websites that were programmed in JAVA, a scripting language that is used to create dynamic web applications.
+HTML websites can be scraped using standard Python packages such as Requests and BeautifulSoup. However, these methods often fail on websites that were programmed in JavaScript, a language used to create dynamic web applications.
 
 This project shows what to do when HTML-based web scraping methods fail. Specifically, it uses a special Python module called Selenium which allows the user to initiate a web "driver" that can navigate dynamic web applications. Using this driver, the JAVA site can be scraped for content.
 
